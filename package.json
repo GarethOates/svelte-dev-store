@@ -1,0 +1,34 @@
+{
+  "name": "sveltedevstore",
+  "version": "1.0.0",
+  "main": "svelteDevStore.js",
+  "description": "A svelte store wrapper using Redux to enable the Redux Dev tools for improved store state visibility",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GarethOates/svelte-dev-store.git"
+  },
+  "keywords": [
+    "svelte",
+    "store",
+    "redux",
+    "devtools"
+  ],
+  "author": {
+    "name": "Gareth Oates",
+    "email": "goatie@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GarethOates/svelte-dev-store/issues"
+  },
+  "homepage": "https://github.com/GarethOates/svelte-dev-store#readme",
+  "dependencies": {
+    "redux": "^3.7.2"
+  },
+  "peerDependencies": {
+    "svelte": "^1.53.0"
+  }
+}
