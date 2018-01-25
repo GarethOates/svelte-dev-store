@@ -17,3 +17,6 @@ myStore.set({name: 'Jeff'});
 
 Then when you open up the Redux dev tools, you should see 3 newState actions
 and the chart should show the structure of your svelte store.
+
+svelteDevStore has the exact same API as the actual svelte/store.  It just extends it to incorporate
+sending actions to a very simple redux store, that enables you to see it in the dev tools.
