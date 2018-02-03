@@ -6,7 +6,7 @@ To use this package in your project as you develop, you simply import this packa
 of the svelte/store and create an instance of the exported class, instead of 'Store'.
 
 ```
-import SvelteDevStore from 'svelteDevStore';
+import SvelteDevStore from 'svelte-dev-store';
 
 const myStore = new SvelteDevStore({name: 'Gareth'});
 

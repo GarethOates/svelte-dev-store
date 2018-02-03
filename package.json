@@ -1,6 +1,6 @@
 {
-  "name": "sveltedevstore",
-  "version": "1.0.1",
+  "name": "svelte-dev-store",
+  "version": "1.0.0",
   "main": "svelteDevStore.js",
   "description": "A svelte store wrapper using Redux to enable the Redux Dev tools for improved store state visibility",
   "scripts": {
