@@ -29,6 +29,6 @@
     "redux": "^3.7.2"
   },
   "peerDependencies": {
-    "svelte": "^1.53.0"
+    "svelte": ">= 1.43.0"
   }
 }
