@@ -1,6 +1,7 @@
 # Svelte Dev Store
 [![npm](https://img.shields.io/npm/v/svelte-dev-store.svg)]()
 [![npm](https://img.shields.io/npm/dm/svelte-dev-store.svg)]()
+[![Twitter Follow](https://img.shields.io/twitter/follow/garethoates.svg?style=social&label=Follow)](https://www.twitter.com/garethoates)
 
 This project allows you to use the Redux Dev Tools browser plugin when working with a Svelte store instance.
 
