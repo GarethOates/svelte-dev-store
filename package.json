@@ -1,8 +1,8 @@
 {
   "name": "svelte-dev-store",
-  "version": "1.0.2",
-  "main": "svelteDevStore.js",
-  "description": "A svelte store wrapper using Redux to enable the Redux Dev tools for improved store state visibility",
+  "version": "2.0.0",
+  "main": "main.js",
+  "description": "A svelte writeable store wrapper using Redux to enable the Redux Dev tools for improved store state visibility",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -29,6 +29,6 @@
     "redux": "^3.7.2"
   },
   "peerDependencies": {
-    "svelte": ">= 1.43.0"
+    "svelte": "^3.0.0"
   }
 }
